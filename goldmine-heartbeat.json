@@ -1,1 +1,1 @@
-{"source":"chatgpt-scheduled-role","run_id":"BOOTSTRAP-NO-SCHEDULED-RUN","checkpoint":21,"policy_version":"v2.9+v2.10.4","note":"Public liveness beacon only; no market evidence or secrets."}
+{"source":"chatgpt-scheduled-role","run_id":"LIVE-20261006-2140","checkpoint":21,"policy_version":"v2.9+v2.10.4","note":"Public scheduler liveness beacon only; no market evidence or secrets."}
